@@ -8,6 +8,7 @@ Para esta sexta práctica se quiere añadir unos test a las clases proporcionada
 A continuación se muestran los diferentes casos que se han llevado a cabo.
 
 **DNITest**
+
 -DNI correcto
 
 ![Captura de pantalla 2022-04-03 a las 20 23 31](https://user-images.githubusercontent.com/98181428/161442481-f96803f6-68a4-48c0-801a-98292c892b4a.png)
@@ -46,6 +47,7 @@ Tras ejecutar el test, nos devuelve un NotOK3 por lo que el test ha ido bien.
 
 
 **TelefonoTest**
+
 -Telefono correcto
 
 ![Captura de pantalla 2022-04-03 a las 20 32 14](https://user-images.githubusercontent.com/98181428/161442853-0bf6af3b-5893-44c7-ac59-44dc96442a8b.png)
@@ -65,4 +67,41 @@ Tras ejecutar el test, nos devuelve un NotOK por lo que el test ha ido bien.
 
 
 
+**ProcessCotrollerTest**
+
+-Todo correcto
+
+Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
+![Captura de pantalla 2022-04-03 a las 20 39 41](https://user-images.githubusercontent.com/98181428/161443056-f3fa99b7-4216-4095-b4d0-2935a7927fca.png)
+
+-DNI incorrecto
+
+Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
+![Captura de pantalla 2022-04-03 a las 20 41 37](https://user-images.githubusercontent.com/98181428/161443135-ac025e64-4edc-4e3d-acc8-aa33581cef53.png)
+
+-Telefono incorrecto
+
+Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
+
+![Captura de pantalla 2022-04-03 a las 20 42 35](https://user-images.githubusercontent.com/98181428/161443210-bb89d3a3-ebdf-47e5-8b51-7f4efe12ee38.png)
+
+
+-AllCorrectLegacy
+Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
+
+![Captura de pantalla 2022-04-03 a las 20 45 41](https://user-images.githubusercontent.com/98181428/161443281-fb082f84-8179-4ebd-8377-c1b8af1dbb2b.png)
+
+
+-DNINotCorrectLegacy
+Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
+
+![Captura de pantalla 2022-04-03 a las 20 46 38](https://user-images.githubusercontent.com/98181428/161443311-9f142e53-5744-4b78-a015-89d8c1e49361.png)
+
+-TelNotCorrectLegacy
+Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
+
+![Captura de pantalla 2022-04-03 a las 20 47 20](https://user-images.githubusercontent.com/98181428/161443331-5c5265f0-0413-4f0f-989b-f992caa5f433.png)
+
+
+Todas las casuísticas han fucionado correctamente.
 
