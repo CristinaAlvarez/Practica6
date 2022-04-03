@@ -87,17 +87,20 @@ Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
 
 
 -AllCorrectLegacy
+
 Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
 
 ![Captura de pantalla 2022-04-03 a las 20 45 41](https://user-images.githubusercontent.com/98181428/161443281-fb082f84-8179-4ebd-8377-c1b8af1dbb2b.png)
 
 
 -DNINotCorrectLegacy
+
 Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
 
 ![Captura de pantalla 2022-04-03 a las 20 46 38](https://user-images.githubusercontent.com/98181428/161443311-9f142e53-5744-4b78-a015-89d8c1e49361.png)
 
 -TelNotCorrectLegacy
+
 Como se puede apreciar en la siguiente imagen ha superado el test correctamente.
 
 ![Captura de pantalla 2022-04-03 a las 20 47 20](https://user-images.githubusercontent.com/98181428/161443331-5c5265f0-0413-4f0f-989b-f992caa5f433.png)
